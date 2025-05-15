@@ -66,26 +66,12 @@ Install and configure UiPath.Database.Activities
 Use Insert activity to push data into an SQL table.
 
 ## OUTPUT:
-For example, if API returns:
 
-{
-  "name": "Chennai",
-  "main": {
-    "temp": 33
-  },
-  "weather": [
-    {"main": "Clouds"}
-  ]
-}
-Your extracted values:
+![image](https://github.com/user-attachments/assets/e57f74b4-b233-43a0-92b8-adb76a607f6d)
 
-City: Chennai  
-Temperature: 33°C  
-Condition: Clouds
-Will be written to Excel like:
+![image](https://github.com/user-attachments/assets/e08daccc-ba8d-4dea-b809-dcf239d72512)
 
-City	Temperature	Condition
-Chennai	33	Clouds
+![image](https://github.com/user-attachments/assets/c30ab3b5-4c7f-4000-8da2-852e9db1c9d3)
 
 ## Result
 The UiPath workflow successfully calls a REST API, processes the JSON response, and writes the extracted weather data to a structured file (Excel/CSV) or database.
