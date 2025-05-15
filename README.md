@@ -1,7 +1,7 @@
 # Exercise-11-API-Integration-and-Data-Processing
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : m.johnpall 
+Reg.No : 212224040140
 ~~~
 
 ## Aim
