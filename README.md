@@ -1,7 +1,7 @@
 # Exercise-11-API-Integration-and-Data-Processing
 ~~~
-Name : m.johnpall 
-Reg.No : 212224040140
+Name : Syed Abu Hanifa. L 
+Reg.No : 212224040346
 ~~~
 
 ## Aim
